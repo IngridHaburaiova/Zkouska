@@ -1,0 +1,1191 @@
+{
+	"OBJ_SEQ": "46715881",
+	"CON_ID": "stationsgrp",
+	"FREKVENCE": "10",
+	"FORMAT": "JSON",
+	"DTM_OD": "20.08.2020 06:00",
+	"DTM_DO": "20.08.2020 06:55",
+	"H": "1",
+	"Q": "1",
+	"T": "0",
+	"STATIONSDATA": {
+		"STATION": {
+			"307189": {
+				"STATIONID": "27",
+				"STATIONHFID": "0370",
+				"STATIONNAME": "T\u00fdni\u0161t\u011b nad Orlic\u00ed",
+				"AFFILIATE": null,
+				"REGION": "Kr\u00e1lov\u00e9hradeck\u00fd kraj",
+				"RIVER": "Orlice",
+				"RIVERKM": "30,9",
+				"STREAMNUMBER": "1-02-03-007",
+				"DT": {
+					"20.08.2020 08:00": {
+						"STAGE": "82",
+						"FLOW": "9.37",
+						"SPA": "0"
+					},
+					"20.08.2020 08:10": {
+						"STAGE": "82",
+						"FLOW": "9.37",
+						"SPA": "0"
+					},
+					"20.08.2020 08:20": {
+						"STAGE": "82",
+						"FLOW": "9.37",
+						"SPA": "0"
+					},
+					"20.08.2020 08:30": {
+						"STAGE": "83",
+						"FLOW": "9.55",
+						"SPA": "0"
+					},
+					"20.08.2020 08:40": {
+						"STAGE": "83",
+						"FLOW": "9.55",
+						"SPA": "0"
+					},
+					"20.08.2020 08:50": {
+						"STAGE": "83",
+						"FLOW": "9.55",
+						"SPA": "0"
+					}
+				}
+			},
+			"307338": {
+				"STATIONID": "31",
+				"STATIONHFID": "0420",
+				"STATIONNAME": "N\u011bm\u010dice",
+				"AFFILIATE": null,
+				"REGION": "Pardubick\u00fd kraj",
+				"RIVER": "Labe",
+				"RIVERKM": "978,75",
+				"STREAMNUMBER": "1-03-01-019",
+				"DT": {
+					"20.08.2020 08:00": {
+						"STAGE": "88",
+						"FLOW": "20.6",
+						"SPA": "0"
+					},
+					"20.08.2020 08:10": {
+						"STAGE": "88",
+						"FLOW": "20.6",
+						"SPA": "0"
+					},
+					"20.08.2020 08:20": {
+						"STAGE": "88",
+						"FLOW": "20.6",
+						"SPA": "0"
+					},
+					"20.08.2020 08:30": {
+						"STAGE": "88",
+						"FLOW": "20.6",
+						"SPA": "0"
+					},
+					"20.08.2020 08:40": {
+						"STAGE": "89",
+						"FLOW": "21",
+						"SPA": "0"
+					},
+					"20.08.2020 08:50": {
+						"STAGE": "89",
+						"FLOW": "21",
+						"SPA": "0"
+					}
+				}
+			},
+			"307011": {
+				"STATIONID": "43",
+				"STATIONHFID": "0610",
+				"STATIONNAME": "P\u0159elou\u010d",
+				"AFFILIATE": null,
+				"REGION": "Pardubick\u00fd kraj",
+				"RIVER": "Labe",
+				"RIVERKM": "950,95",
+				"STREAMNUMBER": "1-03-04-059",
+				"DT": {
+					"20.08.2020 08:00": {
+						"STAGE": "66",
+						"FLOW": "29.1",
+						"SPA": "0"
+					},
+					"20.08.2020 08:10": {
+						"STAGE": "66",
+						"FLOW": "29.1",
+						"SPA": "0"
+					},
+					"20.08.2020 08:20": {
+						"STAGE": "66",
+						"FLOW": "29.1",
+						"SPA": "0"
+					},
+					"20.08.2020 08:30": {
+						"STAGE": "66",
+						"FLOW": "29.1",
+						"SPA": "0"
+					},
+					"20.08.2020 08:40": {
+						"STAGE": "66",
+						"FLOW": "29.1",
+						"SPA": "0"
+					},
+					"20.08.2020 08:50": {
+						"STAGE": "66",
+						"FLOW": "29.1",
+						"SPA": "0"
+					}
+				}
+			},
+			"307212": {
+				"STATIONID": "55",
+				"STATIONHFID": "0750",
+				"STATIONNAME": "S\u00e1ny",
+				"AFFILIATE": null,
+				"REGION": "St\u0159edo\u010desk\u00fd kraj",
+				"RIVER": "Cidlina",
+				"RIVERKM": "6",
+				"STREAMNUMBER": "1-04-04-015",
+				"DT": {
+					"20.08.2020 08:00": {
+						"STAGE": "13",
+						"FLOW": "0.268",
+						"SPA": "0"
+					},
+					"20.08.2020 08:10": {
+						"STAGE": "13",
+						"FLOW": "0.268",
+						"SPA": "0"
+					},
+					"20.08.2020 08:20": {
+						"STAGE": "13",
+						"FLOW": "0.268",
+						"SPA": "0"
+					},
+					"20.08.2020 08:30": {
+						"STAGE": "13",
+						"FLOW": "0.268",
+						"SPA": "0"
+					},
+					"20.08.2020 08:40": {
+						"STAGE": "13",
+						"FLOW": "0.268",
+						"SPA": "0"
+					},
+					"20.08.2020 08:50": {
+						"STAGE": "13",
+						"FLOW": "0.268",
+						"SPA": "0"
+					}
+				}
+			},
+			"2497648": {
+				"STATIONID": "74a",
+				"STATIONHFID": "1018",
+				"STATIONNAME": "P\u0159edm\u011b\u0159ice",
+				"AFFILIATE": null,
+				"REGION": "St\u0159edo\u010desk\u00fd kraj",
+				"RIVER": "Jizera",
+				"RIVERKM": "11,5",
+				"STREAMNUMBER": "1-05-03-015",
+				"DT": {
+					"20.08.2020 08:00": {
+						"STAGE": "121",
+						"FLOW": "7.76",
+						"SPA": "0"
+					},
+					"20.08.2020 08:10": {
+						"STAGE": "122",
+						"FLOW": "8.02",
+						"SPA": "0"
+					},
+					"20.08.2020 08:20": {
+						"STAGE": "122",
+						"FLOW": "8.02",
+						"SPA": "0"
+					},
+					"20.08.2020 08:30": {
+						"STAGE": "121",
+						"FLOW": "7.76",
+						"SPA": "0"
+					},
+					"20.08.2020 08:40": {
+						"STAGE": "121",
+						"FLOW": "7.76",
+						"SPA": "0"
+					},
+					"20.08.2020 08:50": {
+						"STAGE": "120",
+						"FLOW": "7.49",
+						"SPA": "0"
+					}
+				}
+			},
+			"10045030": {
+				"STATIONID": "75a",
+				"STATIONHFID": "1044",
+				"STATIONNAME": "Kostelec nad Labem",
+				"AFFILIATE": null,
+				"REGION": "St\u0159edo\u010desk\u00fd kraj",
+				"RIVER": "Labe",
+				"RIVERKM": "856,92",
+				"STREAMNUMBER": "1-05-04-012",
+				"DT": {
+					"20.08.2020 08:00": {
+						"STAGE": "402",
+						"FLOW": "34",
+						"SPA": "0"
+					},
+					"20.08.2020 08:10": {
+						"STAGE": "404",
+						"FLOW": null,
+						"SPA": "0"
+					},
+					"20.08.2020 08:20": {
+						"STAGE": "403",
+						"FLOW": null,
+						"SPA": "0"
+					},
+					"20.08.2020 08:30": {
+						"STAGE": "401",
+						"FLOW": "35",
+						"SPA": "0"
+					},
+					"20.08.2020 08:40": {
+						"STAGE": "402",
+						"FLOW": null,
+						"SPA": "0"
+					},
+					"20.08.2020 08:50": {
+						"STAGE": "400",
+						"FLOW": null,
+						"SPA": "0"
+					}
+				}
+			},
+			"307036": {
+				"STATIONID": "79",
+				"STATIONHFID": "1090",
+				"STATIONNAME": "Vy\u0161\u0161\u00ed Brod",
+				"AFFILIATE": null,
+				"REGION": "Jiho\u010desk\u00fd kraj",
+				"RIVER": "Vltava",
+				"RIVERKM": "319",
+				"STREAMNUMBER": "1-06-01-121",
+				"DT": {
+					"20.08.2020 08:00": {
+						"STAGE": "85",
+						"FLOW": "12",
+						"SPA": "0"
+					},
+					"20.08.2020 08:10": {
+						"STAGE": "85",
+						"FLOW": "12",
+						"SPA": "0"
+					},
+					"20.08.2020 08:20": {
+						"STAGE": "85",
+						"FLOW": "12",
+						"SPA": "0"
+					},
+					"20.08.2020 08:30": {
+						"STAGE": "85",
+						"FLOW": "12",
+						"SPA": "0"
+					},
+					"20.08.2020 08:40": {
+						"STAGE": "85",
+						"FLOW": "12",
+						"SPA": "0"
+					},
+					"20.08.2020 08:50": {
+						"STAGE": "85",
+						"FLOW": "12",
+						"SPA": "0"
+					}
+				}
+			},
+			"307049": {
+				"STATIONID": "94",
+				"STATIONHFID": "1151",
+				"STATIONNAME": "\u010cesk\u00e9 Bud\u011bjovice",
+				"AFFILIATE": null,
+				"REGION": "Jiho\u010desk\u00fd kraj",
+				"RIVER": "Vltava",
+				"RIVERKM": "238,8",
+				"STREAMNUMBER": "1-06-03-001",
+				"DT": {
+					"20.08.2020 08:00": {
+						"STAGE": "108",
+						"FLOW": "31",
+						"SPA": "0"
+					},
+					"20.08.2020 08:10": {
+						"STAGE": "108",
+						"FLOW": "31",
+						"SPA": "0"
+					},
+					"20.08.2020 08:20": {
+						"STAGE": "107",
+						"FLOW": "31",
+						"SPA": "0"
+					},
+					"20.08.2020 08:30": {
+						"STAGE": "108",
+						"FLOW": "31",
+						"SPA": "0"
+					},
+					"20.08.2020 08:40": {
+						"STAGE": "108",
+						"FLOW": "31.3",
+						"SPA": "0"
+					},
+					"20.08.2020 08:50": {
+						"STAGE": "108",
+						"FLOW": "30.9",
+						"SPA": "0"
+					}
+				}
+			},
+			"307126": {
+				"STATIONID": "111",
+				"STATIONHFID": "1330",
+				"STATIONNAME": "Bechyn\u011b",
+				"AFFILIATE": null,
+				"REGION": "Jiho\u010desk\u00fd kraj",
+				"RIVER": "Lu\u017enice",
+				"RIVERKM": "10,55",
+				"STREAMNUMBER": "1-07-04-112",
+				"DT": {
+					"20.08.2020 08:00": {
+						"STAGE": "140",
+						"FLOW": "20.5",
+						"SPA": "0"
+					},
+					"20.08.2020 08:10": {
+						"STAGE": "140",
+						"FLOW": "20.5",
+						"SPA": "0"
+					},
+					"20.08.2020 08:20": {
+						"STAGE": "140",
+						"FLOW": "20.5",
+						"SPA": "0"
+					},
+					"20.08.2020 08:30": {
+						"STAGE": "140",
+						"FLOW": "20.5",
+						"SPA": "0"
+					},
+					"20.08.2020 08:40": {
+						"STAGE": "140",
+						"FLOW": "20.5",
+						"SPA": "0"
+					},
+					"20.08.2020 08:50": {
+						"STAGE": "140",
+						"FLOW": "20.5",
+						"SPA": "0"
+					}
+				}
+			},
+			"307230": {
+				"STATIONID": "127",
+				"STATIONHFID": "1510",
+				"STATIONNAME": "P\u00edsek",
+				"AFFILIATE": null,
+				"REGION": "Jiho\u010desk\u00fd kraj",
+				"RIVER": "Otava",
+				"RIVERKM": "24,7",
+				"STREAMNUMBER": "1-08-03-101",
+				"DT": {
+					"20.08.2020 08:00": {
+						"STAGE": "99",
+						"FLOW": "25.3",
+						"SPA": "0"
+					},
+					"20.08.2020 08:10": {
+						"STAGE": "99",
+						"FLOW": "25.3",
+						"SPA": "0"
+					},
+					"20.08.2020 08:20": {
+						"STAGE": "99",
+						"FLOW": "25.3",
+						"SPA": "0"
+					},
+					"20.08.2020 08:30": {
+						"STAGE": "99",
+						"FLOW": "25.3",
+						"SPA": "0"
+					},
+					"20.08.2020 08:40": {
+						"STAGE": "99",
+						"FLOW": "25.3",
+						"SPA": "0"
+					},
+					"20.08.2020 08:50": {
+						"STAGE": "99",
+						"FLOW": "25.3",
+						"SPA": "0"
+					}
+				}
+			},
+			"307068": {
+				"STATIONID": "159",
+				"STATIONHFID": "1672",
+				"STATIONNAME": "Nespeky",
+				"AFFILIATE": null,
+				"REGION": "St\u0159edo\u010desk\u00fd kraj",
+				"RIVER": "S\u00e1zava",
+				"RIVERKM": "27,15",
+				"STREAMNUMBER": "1-09-03-155",
+				"DT": {
+					"20.08.2020 08:00": {
+						"STAGE": "73",
+						"FLOW": "12.9",
+						"SPA": "0"
+					},
+					"20.08.2020 08:10": {
+						"STAGE": "73",
+						"FLOW": "12.9",
+						"SPA": "0"
+					},
+					"20.08.2020 08:20": {
+						"STAGE": "72",
+						"FLOW": "12.5",
+						"SPA": "0"
+					},
+					"20.08.2020 08:30": {
+						"STAGE": "73",
+						"FLOW": "12.9",
+						"SPA": "0"
+					},
+					"20.08.2020 08:40": {
+						"STAGE": "72",
+						"FLOW": "12.5",
+						"SPA": "0"
+					},
+					"20.08.2020 08:50": {
+						"STAGE": "72",
+						"FLOW": "12.5",
+						"SPA": "0"
+					}
+				}
+			},
+			"307284": {
+				"STATIONID": "205",
+				"STATIONHFID": "1980",
+				"STATIONNAME": "Beroun",
+				"AFFILIATE": null,
+				"REGION": "St\u0159edo\u010desk\u00fd kraj",
+				"RIVER": "Berounka",
+				"RIVERKM": "34,2",
+				"STREAMNUMBER": "1-11-04-056",
+				"DT": {
+					"20.08.2020 08:00": {
+						"STAGE": "97",
+						"FLOW": "19.1",
+						"SPA": "0"
+					},
+					"20.08.2020 08:10": {
+						"STAGE": "96",
+						"FLOW": "18.6",
+						"SPA": "0"
+					},
+					"20.08.2020 08:20": {
+						"STAGE": "97",
+						"FLOW": "19.1",
+						"SPA": "0"
+					},
+					"20.08.2020 08:30": {
+						"STAGE": "97",
+						"FLOW": "19.1",
+						"SPA": "0"
+					},
+					"20.08.2020 08:40": {
+						"STAGE": "97",
+						"FLOW": "19.1",
+						"SPA": "0"
+					},
+					"20.08.2020 08:50": {
+						"STAGE": "98",
+						"FLOW": "19.7",
+						"SPA": "0"
+					}
+				}
+			},
+			"307225": {
+				"STATIONID": "209",
+				"STATIONHFID": "2001",
+				"STATIONNAME": "Praha - Chuchle",
+				"AFFILIATE": null,
+				"REGION": "Hlavn\u00ed m\u011bsto Praha",
+				"RIVER": "Vltava",
+				"RIVERKM": "60,08",
+				"STREAMNUMBER": "1-12-01-005",
+				"DT": {
+					"20.08.2020 08:00": {
+						"STAGE": "64",
+						"FLOW": "121",
+						"SPA": "0"
+					},
+					"20.08.2020 08:10": {
+						"STAGE": "64",
+						"FLOW": "121",
+						"SPA": "0"
+					},
+					"20.08.2020 08:20": {
+						"STAGE": "64",
+						"FLOW": "121",
+						"SPA": "0"
+					},
+					"20.08.2020 08:30": {
+						"STAGE": "64",
+						"FLOW": "121",
+						"SPA": "0"
+					},
+					"20.08.2020 08:40": {
+						"STAGE": "63",
+						"FLOW": "118",
+						"SPA": "0"
+					},
+					"20.08.2020 08:50": {
+						"STAGE": "63",
+						"FLOW": "118",
+						"SPA": "0"
+					}
+				}
+			},
+			"307289": {
+				"STATIONID": "214",
+				"STATIONHFID": "2030",
+				"STATIONNAME": "Vra\u0148any",
+				"AFFILIATE": null,
+				"REGION": "St\u0159edo\u010desk\u00fd kraj",
+				"RIVER": "Vltava",
+				"RIVERKM": "10,8",
+				"STREAMNUMBER": "1-12-02-095",
+				"DT": {
+					"20.08.2020 08:00": {
+						"STAGE": "75",
+						"FLOW": "123",
+						"SPA": "0"
+					},
+					"20.08.2020 08:10": {
+						"STAGE": "75",
+						"FLOW": "123",
+						"SPA": "0"
+					},
+					"20.08.2020 08:20": {
+						"STAGE": "75",
+						"FLOW": "123",
+						"SPA": "0"
+					},
+					"20.08.2020 08:30": {
+						"STAGE": "76",
+						"FLOW": "125",
+						"SPA": "0"
+					},
+					"20.08.2020 08:40": {
+						"STAGE": "74",
+						"FLOW": "122",
+						"SPA": "0"
+					},
+					"20.08.2020 08:50": {
+						"STAGE": "74",
+						"FLOW": "122",
+						"SPA": "0"
+					}
+				}
+			},
+			"307081": {
+				"STATIONID": "215",
+				"STATIONHFID": "2040",
+				"STATIONNAME": "M\u011bln\u00edk",
+				"AFFILIATE": null,
+				"REGION": "St\u0159edo\u010desk\u00fd kraj",
+				"RIVER": "Labe",
+				"RIVERKM": "836,65",
+				"STREAMNUMBER": "1-12-03-003",
+				"DT": {
+					"20.08.2020 08:00": {
+						"STAGE": "269",
+						"FLOW": null,
+						"SPA": "0"
+					},
+					"20.08.2020 08:10": {
+						"STAGE": "268",
+						"FLOW": null,
+						"SPA": "0"
+					},
+					"20.08.2020 08:20": {
+						"STAGE": "268",
+						"FLOW": null,
+						"SPA": "0"
+					},
+					"20.08.2020 08:30": {
+						"STAGE": "267",
+						"FLOW": null,
+						"SPA": "0"
+					},
+					"20.08.2020 08:40": {
+						"STAGE": "266",
+						"FLOW": null,
+						"SPA": "0"
+					},
+					"20.08.2020 08:50": {
+						"STAGE": "266",
+						"FLOW": null,
+						"SPA": "0"
+					}
+				}
+			},
+			"307300": {
+				"STATIONID": "235",
+				"STATIONHFID": "2190",
+				"STATIONNAME": "Louny",
+				"AFFILIATE": null,
+				"REGION": "\u00dasteck\u00fd kraj",
+				"RIVER": "Oh\u0159e",
+				"RIVERKM": "53,4",
+				"STREAMNUMBER": "1-13-04-005",
+				"DT": {
+					"20.08.2020 08:00": {
+						"STAGE": "165",
+						"FLOW": "7.53",
+						"SPA": "-1"
+					},
+					"20.08.2020 08:10": {
+						"STAGE": "165",
+						"FLOW": "7.53",
+						"SPA": "-1"
+					},
+					"20.08.2020 08:20": {
+						"STAGE": "165",
+						"FLOW": "7.53",
+						"SPA": "-1"
+					},
+					"20.08.2020 08:30": {
+						"STAGE": "165",
+						"FLOW": "7.53",
+						"SPA": "-1"
+					},
+					"20.08.2020 08:40": {
+						"STAGE": "165",
+						"FLOW": "7.53",
+						"SPA": "-1"
+					},
+					"20.08.2020 08:50": {
+						"STAGE": "165",
+						"FLOW": "7.53",
+						"SPA": "-1"
+					}
+				}
+			},
+			"307228": {
+				"STATIONID": "236",
+				"STATIONHFID": "2210",
+				"STATIONNAME": "\u00dast\u00ed nad Labem",
+				"AFFILIATE": null,
+				"REGION": "\u00dasteck\u00fd kraj",
+				"RIVER": "Labe",
+				"RIVERKM": "765,96",
+				"STREAMNUMBER": "1-13-05-021",
+				"DT": {
+					"20.08.2020 08:00": {
+						"STAGE": "205",
+						"FLOW": "200",
+						"SPA": "0"
+					},
+					"20.08.2020 08:10": {
+						"STAGE": "205",
+						"FLOW": "200",
+						"SPA": "0"
+					},
+					"20.08.2020 08:20": {
+						"STAGE": "205",
+						"FLOW": "200",
+						"SPA": "0"
+					},
+					"20.08.2020 08:30": {
+						"STAGE": "203",
+						"FLOW": "196",
+						"SPA": "0"
+					},
+					"20.08.2020 08:40": {
+						"STAGE": "200",
+						"FLOW": "190",
+						"SPA": "0"
+					},
+					"20.08.2020 08:50": {
+						"STAGE": "198",
+						"FLOW": "186",
+						"SPA": "0"
+					}
+				}
+			},
+			"307137": {
+				"STATIONID": "248",
+				"STATIONHFID": "2390",
+				"STATIONNAME": "Bene\u0161ov nad Plou\u010dnic\u00ed",
+				"AFFILIATE": null,
+				"REGION": "\u00dasteck\u00fd kraj",
+				"RIVER": "Plou\u010dnice",
+				"RIVERKM": "10,9",
+				"STREAMNUMBER": "1-14-03-100",
+				"DT": {
+					"20.08.2020 08:00": {
+						"STAGE": "73",
+						"FLOW": "2.92",
+						"SPA": "-1"
+					},
+					"20.08.2020 08:10": {
+						"STAGE": "73",
+						"FLOW": "2.92",
+						"SPA": "-1"
+					},
+					"20.08.2020 08:20": {
+						"STAGE": "74",
+						"FLOW": "3.11",
+						"SPA": "-1"
+					},
+					"20.08.2020 08:30": {
+						"STAGE": "74",
+						"FLOW": "3.11",
+						"SPA": "-1"
+					},
+					"20.08.2020 08:40": {
+						"STAGE": "74",
+						"FLOW": "3.11",
+						"SPA": "-1"
+					},
+					"20.08.2020 08:50": {
+						"STAGE": "74",
+						"FLOW": "3.11",
+						"SPA": "-1"
+					}
+				}
+			},
+			"2497644": {
+				"STATIONID": "248a",
+				"STATIONHFID": "2400",
+				"STATIONNAME": "D\u011b\u010d\u00edn",
+				"AFFILIATE": null,
+				"REGION": "\u00dasteck\u00fd kraj",
+				"RIVER": "Labe",
+				"RIVERKM": "740,52",
+				"STREAMNUMBER": "1-14-04-001",
+				"DT": {
+					"20.08.2020 08:00": {
+						"STAGE": "166",
+						"FLOW": "190",
+						"SPA": "0"
+					},
+					"20.08.2020 08:10": {
+						"STAGE": "166",
+						"FLOW": "190",
+						"SPA": "0"
+					},
+					"20.08.2020 08:20": {
+						"STAGE": "167",
+						"FLOW": "191",
+						"SPA": "0"
+					},
+					"20.08.2020 08:30": {
+						"STAGE": "167",
+						"FLOW": "191",
+						"SPA": "0"
+					},
+					"20.08.2020 08:40": {
+						"STAGE": "168",
+						"FLOW": "193",
+						"SPA": "0"
+					},
+					"20.08.2020 08:50": {
+						"STAGE": "168",
+						"FLOW": "193",
+						"SPA": "0"
+					}
+				}
+			},
+			"307316": {
+				"STATIONID": "269",
+				"STATIONHFID": "2570",
+				"STATIONNAME": "Svinov",
+				"AFFILIATE": null,
+				"REGION": "Moravskoslezsk\u00fd kraj",
+				"RIVER": "Odra",
+				"RIVERKM": "19,12",
+				"STREAMNUMBER": "2-01-01-1600",
+				"DT": {
+					"20.08.2020 08:00": {
+						"STAGE": "207",
+						"FLOW": "59",
+						"SPA": "0"
+					},
+					"20.08.2020 08:10": {
+						"STAGE": "207",
+						"FLOW": "59",
+						"SPA": "0"
+					},
+					"20.08.2020 08:20": {
+						"STAGE": "206",
+						"FLOW": "58.3",
+						"SPA": "0"
+					},
+					"20.08.2020 08:30": {
+						"STAGE": "205",
+						"FLOW": "57.7",
+						"SPA": "0"
+					},
+					"20.08.2020 08:40": {
+						"STAGE": "205",
+						"FLOW": "57.7",
+						"SPA": "0"
+					},
+					"20.08.2020 08:50": {
+						"STAGE": "204",
+						"FLOW": "57",
+						"SPA": "0"
+					}
+				}
+			},
+			"307337": {
+				"STATIONID": "310",
+				"STATIONHFID": "3550",
+				"STATIONNAME": "Moravi\u010dany",
+				"AFFILIATE": null,
+				"REGION": "Olomouck\u00fd kraj",
+				"RIVER": "Morava",
+				"RIVERKM": "272,8",
+				"STREAMNUMBER": "4-10-02-0650",
+				"DT": {
+					"20.08.2020 08:00": {
+						"STAGE": "94",
+						"FLOW": "11.5",
+						"SPA": "0"
+					},
+					"20.08.2020 08:10": {
+						"STAGE": "93",
+						"FLOW": "11",
+						"SPA": "0"
+					},
+					"20.08.2020 08:20": {
+						"STAGE": "94",
+						"FLOW": "11.5",
+						"SPA": "0"
+					},
+					"20.08.2020 08:30": {
+						"STAGE": "94",
+						"FLOW": "11.5",
+						"SPA": "0"
+					},
+					"20.08.2020 08:40": {
+						"STAGE": "94",
+						"FLOW": "11.5",
+						"SPA": "0"
+					},
+					"20.08.2020 08:50": {
+						"STAGE": "95",
+						"FLOW": "11.9",
+						"SPA": "0"
+					}
+				}
+			},
+			"2505266": {
+				"STATIONID": "317",
+				"STATIONHFID": "3670",
+				"STATIONNAME": "Olomouc-Nov\u00e9 Sady tok",
+				"AFFILIATE": null,
+				"REGION": "Olomouck\u00fd kraj",
+				"RIVER": "Morava",
+				"RIVERKM": "232,3",
+				"STREAMNUMBER": "4-10-03-1151",
+				"DT": {
+					"20.08.2020 08:00": {
+						"STAGE": "144",
+						"FLOW": "28.9",
+						"SPA": "0"
+					},
+					"20.08.2020 08:10": {
+						"STAGE": "144",
+						"FLOW": "28.9",
+						"SPA": "0"
+					},
+					"20.08.2020 08:20": {
+						"STAGE": "144",
+						"FLOW": "28.9",
+						"SPA": "0"
+					},
+					"20.08.2020 08:30": {
+						"STAGE": "144",
+						"FLOW": "28.9",
+						"SPA": "0"
+					},
+					"20.08.2020 08:40": {
+						"STAGE": "144",
+						"FLOW": "28.9",
+						"SPA": "0"
+					},
+					"20.08.2020 08:50": {
+						"STAGE": "144",
+						"FLOW": "28.9",
+						"SPA": "0"
+					}
+				}
+			},
+			"307354": {
+				"STATIONID": "330",
+				"STATIONHFID": "3900",
+				"STATIONNAME": "Dluhonice",
+				"AFFILIATE": null,
+				"REGION": "Olomouck\u00fd kraj",
+				"RIVER": "Be\u010dva",
+				"RIVERKM": "9,3",
+				"STREAMNUMBER": "4-11-02-0721",
+				"DT": {
+					"20.08.2020 08:00": {
+						"STAGE": "229",
+						"FLOW": "94.9",
+						"SPA": "0"
+					},
+					"20.08.2020 08:10": {
+						"STAGE": "228",
+						"FLOW": "93.9",
+						"SPA": "0"
+					},
+					"20.08.2020 08:20": {
+						"STAGE": "227",
+						"FLOW": "92.9",
+						"SPA": "0"
+					},
+					"20.08.2020 08:30": {
+						"STAGE": "227",
+						"FLOW": "92.9",
+						"SPA": "0"
+					},
+					"20.08.2020 08:40": {
+						"STAGE": "227",
+						"FLOW": "92.9",
+						"SPA": "0"
+					},
+					"20.08.2020 08:50": {
+						"STAGE": "226",
+						"FLOW": "91.8",
+						"SPA": "0"
+					}
+				}
+			},
+			"307199": {
+				"STATIONID": "339",
+				"STATIONHFID": "4030",
+				"STATIONNAME": "Krom\u011b\u0159\u00ed\u017e",
+				"AFFILIATE": null,
+				"REGION": "Zl\u00ednsk\u00fd kraj",
+				"RIVER": "Morava",
+				"RIVERKM": "180,21",
+				"STREAMNUMBER": "4-12-02-104",
+				"DT": {
+					"20.08.2020 08:00": {
+						"STAGE": "268",
+						"FLOW": "133",
+						"SPA": "0"
+					},
+					"20.08.2020 08:10": {
+						"STAGE": "268",
+						"FLOW": "133",
+						"SPA": "0"
+					},
+					"20.08.2020 08:20": {
+						"STAGE": "268",
+						"FLOW": "133",
+						"SPA": "0"
+					},
+					"20.08.2020 08:30": {
+						"STAGE": "268",
+						"FLOW": "133",
+						"SPA": "0"
+					},
+					"20.08.2020 08:40": {
+						"STAGE": "267",
+						"FLOW": "132",
+						"SPA": "0"
+					},
+					"20.08.2020 08:50": {
+						"STAGE": "267",
+						"FLOW": "132",
+						"SPA": "0"
+					}
+				}
+			},
+			"307147": {
+				"STATIONID": "345",
+				"STATIONHFID": "4130",
+				"STATIONNAME": "Spytihn\u011bv",
+				"AFFILIATE": null,
+				"REGION": "Zl\u00ednsk\u00fd kraj",
+				"RIVER": "Morava",
+				"RIVERKM": "157,06",
+				"STREAMNUMBER": "4-13-01-0542-0-00-60",
+				"DT": {
+					"20.08.2020 08:00": {
+						"STAGE": "261",
+						"FLOW": "136",
+						"SPA": "0"
+					},
+					"20.08.2020 08:10": {
+						"STAGE": "262",
+						"FLOW": "137",
+						"SPA": "0"
+					},
+					"20.08.2020 08:20": {
+						"STAGE": "263",
+						"FLOW": "138",
+						"SPA": "0"
+					},
+					"20.08.2020 08:30": {
+						"STAGE": "263",
+						"FLOW": "138",
+						"SPA": "0"
+					},
+					"20.08.2020 08:40": {
+						"STAGE": "263",
+						"FLOW": "138",
+						"SPA": "0"
+					},
+					"20.08.2020 08:50": {
+						"STAGE": "265",
+						"FLOW": "140",
+						"SPA": "0"
+					}
+				}
+			},
+			"307233": {
+				"STATIONID": "350",
+				"STATIONHFID": "4215",
+				"STATIONNAME": "Str\u00e1\u017enice",
+				"AFFILIATE": null,
+				"REGION": "Jihomoravsk\u00fd kraj",
+				"RIVER": "Morava",
+				"RIVERKM": "121,67",
+				"STREAMNUMBER": "4-13-02-034",
+				"DT": {
+					"20.08.2020 08:00": {
+						"STAGE": "301",
+						"FLOW": "119",
+						"SPA": "0"
+					},
+					"20.08.2020 08:10": {
+						"STAGE": "304",
+						"FLOW": "121",
+						"SPA": "0"
+					},
+					"20.08.2020 08:20": {
+						"STAGE": "306",
+						"FLOW": "122",
+						"SPA": "0"
+					},
+					"20.08.2020 08:30": {
+						"STAGE": "308",
+						"FLOW": "123",
+						"SPA": "0"
+					},
+					"20.08.2020 08:40": {
+						"STAGE": "310",
+						"FLOW": "125",
+						"SPA": "0"
+					},
+					"20.08.2020 08:50": {
+						"STAGE": "311",
+						"FLOW": "125",
+						"SPA": "0"
+					}
+				}
+			},
+			"307372": {
+				"STATIONID": "352",
+				"STATIONHFID": "4260",
+				"STATIONNAME": "Lan\u017ehot",
+				"AFFILIATE": null,
+				"REGION": "Jihomoravsk\u00fd kraj",
+				"RIVER": "Morava",
+				"RIVERKM": "78,72",
+				"STREAMNUMBER": "4-13-02-094",
+				"DT": {
+					"20.08.2020 08:00": {
+						"STAGE": "121",
+						"FLOW": "70.5",
+						"SPA": "0"
+					},
+					"20.08.2020 08:10": {
+						"STAGE": "123",
+						"FLOW": "71.9",
+						"SPA": "0"
+					},
+					"20.08.2020 08:20": {
+						"STAGE": "124",
+						"FLOW": "72.7",
+						"SPA": "0"
+					},
+					"20.08.2020 08:30": {
+						"STAGE": "126",
+						"FLOW": "74.1",
+						"SPA": "0"
+					},
+					"20.08.2020 08:40": {
+						"STAGE": "127",
+						"FLOW": "74.8",
+						"SPA": "0"
+					},
+					"20.08.2020 08:50": {
+						"STAGE": "129",
+						"FLOW": "76.3",
+						"SPA": "0"
+					}
+				}
+			},
+			"307007": {
+				"STATIONID": "401",
+				"STATIONHFID": "4805",
+				"STATIONNAME": "Ladn\u00e1",
+				"AFFILIATE": null,
+				"REGION": "Jihomoravsk\u00fd kraj",
+				"RIVER": "Dyje",
+				"RIVERKM": "28,82",
+				"STREAMNUMBER": "4-17-01-045",
+				"DT": {
+					"20.08.2020 08:00": {
+						"STAGE": "78",
+						"FLOW": "45.7",
+						"SPA": "0"
+					},
+					"20.08.2020 08:10": {
+						"STAGE": "78",
+						"FLOW": "45.7",
+						"SPA": "0"
+					},
+					"20.08.2020 08:20": {
+						"STAGE": "78",
+						"FLOW": "45.7",
+						"SPA": "0"
+					},
+					"20.08.2020 08:30": {
+						"STAGE": "78",
+						"FLOW": "45.7",
+						"SPA": "0"
+					},
+					"20.08.2020 08:40": {
+						"STAGE": "78",
+						"FLOW": "45.7",
+						"SPA": "0"
+					},
+					"20.08.2020 08:50": {
+						"STAGE": "78",
+						"FLOW": "45.7",
+						"SPA": "0"
+					}
+				}
+			}
+		}
+	}
+}
